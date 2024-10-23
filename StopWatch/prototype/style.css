@@ -1,0 +1,19 @@
+.timer{
+    text-align: center;
+    width: 500px;
+    height: 300px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 4px black;
+    position:relative;
+}
+
+
+button {
+    border-radius: 12px;
+    height: 40px;
+    width: 80px;
+}
+
+.p {
+    width :60px;
+}
